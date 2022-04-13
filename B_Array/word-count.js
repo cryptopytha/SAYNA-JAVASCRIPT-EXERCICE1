@@ -1,0 +1,3 @@
+function wordCount(sentence,targetWords){
+    
+}
